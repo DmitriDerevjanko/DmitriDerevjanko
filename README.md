@@ -30,12 +30,7 @@ My focus is end-to-end delivery: data ingestion, embeddings, LLM workflows, APIs
 
 ## What I Build
 
-| Intelligent Products | Production Systems | Business Automation |
-| --- | --- | --- |
-| Source-grounded RAG assistants and decision tools | FastAPI services and clean API contracts | CRM and workflow automation |
-| Agents for routing, research, and reporting | React/Next.js interfaces for real users | Reporting dashboards and analytics |
-| OCR/NLP pipelines for document processing | Scraping, ETL, embeddings, and vector search | Internal tools that reduce manual work |
-| LLM-powered decision tools and demos | Docker, nginx, VPS deployment, and CI/CD | Practical ROI-focused AI implementation |
+<img src="./what-i-build.svg?v=20260429" alt="What I Build: intelligent products, production systems, and business automation" width="100%" />
 
 ---
 
@@ -83,56 +78,13 @@ My focus is end-to-end delivery: data ingestion, embeddings, LLM workflows, APIs
 
 ## How I Build
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>01 · Frame</h3>
-      <p><strong>Business problem → workflow</strong></p>
-      <p>I start with the real user task, success metric, constraints, and where AI can create measurable value.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>02 · Prepare</h3>
-      <p><strong>Data sources → clean context</strong></p>
-      <p>I connect APIs, files, scraping, OCR, databases, and turn messy inputs into reliable retrieval-ready data.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>03 · Intelligence</h3>
-      <p><strong>RAG, agents, ML, guardrails</strong></p>
-      <p>I build grounded workflows with tool use, citations, evaluation, practical latency, and clear failure paths.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>04 · Backend</h3>
-      <p><strong>FastAPI → typed contracts</strong></p>
-      <p>I expose clean APIs, auth-aware integration points, background jobs, and services that are easy to operate.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>05 · Product</h3>
-      <p><strong>React dashboards → usable UI</strong></p>
-      <p>I turn the workflow into interfaces, dashboards, and demos that non-technical users can understand quickly.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>06 · Ship</h3>
-      <p><strong>Docker, VPS, CI/CD, monitoring</strong></p>
-      <p>I deploy with logs, nginx, rollback paths, and iteration loops so the system keeps improving after launch.</p>
-    </td>
-  </tr>
-</table>
+<img src="./how-i-build.svg?v=20260429" alt="How I Build: frame, prepare, intelligence, backend, product, and ship" width="100%" />
 
 ---
 
 ## Where I Add Value
 
-| Area | How I approach it |
-| --- | --- |
-| AI strategy to implementation | I translate a business problem into a working AI workflow: data sources, retrieval, model logic, API, UI, and deployment. |
-| RAG and knowledge systems | I care about grounding, citations, retrieval quality, and reducing hallucination risk instead of just wrapping a chatbot around data. |
-| Document automation | I build OCR/NLP pipelines that extract, classify, enrich, and route information from real documents and messy inputs. |
-| Agents and workflow automation | I design agents around clear tasks, tool use, guardrails, and measurable time savings rather than vague "AI magic". |
-| Backend and integration work | I build FastAPI services, clean data contracts, scraping pipelines, CRM automations, and dashboards that fit into existing operations. |
-| Deployment mindset | I treat Docker, CI/CD, nginx, Linux servers, logs, and monitoring as part of the product, not the boring part after coding. |
-| Product presentation | I build live demos that stakeholders can click, test, and understand quickly. |
+<img src="./where-i-add-value.svg?v=20260429" alt="Where I Add Value: strategy, RAG, automation, backend, deployment, and product presentation" width="100%" />
 
 ---
 

@@ -1,0 +1,42 @@
+<svg width="1080" height="430" viewBox="0 0 1080 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1080" y2="430" gradientUnits="userSpaceOnUse"><stop stop-color="#050816"/><stop offset="0.55" stop-color="#101636"/><stop offset="1" stop-color="#042F3A"/></linearGradient>
+    <linearGradient id="accent" x1="70" y1="370" x2="1010" y2="70" gradientUnits="userSpaceOnUse"><stop stop-color="#6C63FF"/><stop offset="1" stop-color="#00E5C3"/></linearGradient>
+    <linearGradient id="card" x1="70" y1="120" x2="1010" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#111827" stop-opacity="0.92"/><stop offset="1" stop-color="#0B1220" stop-opacity="0.78"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(850 240) rotate(-18) scale(340 210)"><stop stop-color="#00C7B7" stop-opacity="0.36"/><stop offset="1" stop-color="#00C7B7" stop-opacity="0"/></radialGradient>
+    <filter id="shadow" x="-12%" y="-22%" width="124%" height="144%"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000000" flood-opacity="0.32"/></filter>
+  </defs>
+  <rect width="1080" height="430" rx="30" fill="url(#bg)"/>
+  <rect width="1080" height="430" rx="30" fill="url(#glow)"/>
+  <g opacity="0.1"><path d="M0 86H1080M0 172H1080M0 258H1080M0 344H1080" stroke="#E5E7EB"/><path d="M135 0V430M270 0V430M405 0V430M540 0V430M675 0V430M810 0V430M945 0V430" stroke="#E5E7EB"/></g>
+  <text x="70" y="72" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="850" letter-spacing="-0.8">What I Build</text>
+  <text x="70" y="104" fill="#A7F3D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Useful systems that connect data, workflows, product UI, automation, and AI where it helps</text>
+  <path d="M70 126H1010" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-opacity="0.78"/>
+  <g filter="url(#shadow)">
+    <rect x="70" y="158" width="300" height="208" rx="24" fill="url(#card)" stroke="#6C63FF" stroke-opacity="0.48"/>
+    <text x="96" y="204" fill="#C7D2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="850">Intelligent Products</text>
+    <text x="96" y="238" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="650">RAG assistants, decision tools,</text>
+    <text x="96" y="260" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="650">OCR/NLP pipelines, agents, and</text>
+    <text x="96" y="282" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="650">AI-powered product workflows.</text>
+    <rect x="96" y="314" width="86" height="30" rx="15" fill="#6C63FF" fill-opacity="0.18" stroke="#6C63FF" stroke-opacity="0.55"/><text x="139" y="334" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="850">RAG</text>
+    <rect x="192" y="314" width="76" height="30" rx="15" fill="#0F172A" stroke="#334155"/><text x="230" y="334" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="850">OCR</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="390" y="158" width="300" height="208" rx="24" fill="url(#card)" stroke="#00C7B7" stroke-opacity="0.48"/>
+    <text x="416" y="204" fill="#CCFBF1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="850">Production Systems</text>
+    <text x="416" y="238" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="650">FastAPI services, clean contracts,</text>
+    <text x="416" y="260" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="650">React dashboards, scraping, ETL,</text>
+    <text x="416" y="282" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="650">deployment, CI/CD, and monitoring.</text>
+    <rect x="416" y="314" width="88" height="30" rx="15" fill="#00C7B7" fill-opacity="0.14" stroke="#00C7B7" stroke-opacity="0.5"/><text x="460" y="334" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="850">FastAPI</text>
+    <rect x="514" y="314" width="86" height="30" rx="15" fill="#6C63FF" fill-opacity="0.18" stroke="#6C63FF" stroke-opacity="0.55"/><text x="557" y="334" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="850">React</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="710" y="158" width="300" height="208" rx="24" fill="url(#card)" stroke="#6C63FF" stroke-opacity="0.48"/>
+    <text x="736" y="204" fill="#C7D2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="850">Business Automation</text>
+    <text x="736" y="238" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="650">CRM workflows, reporting systems,</text>
+    <text x="736" y="260" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="650">analytics, internal tools, and ROI-</text>
+    <text x="736" y="282" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="650">focused implementation for teams.</text>
+    <rect x="736" y="314" width="98" height="30" rx="15" fill="#00C7B7" fill-opacity="0.14" stroke="#00C7B7" stroke-opacity="0.5"/><text x="785" y="334" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="850">Automation</text>
+    <rect x="844" y="314" width="98" height="30" rx="15" fill="#0F172A" stroke="#334155"/><text x="893" y="334" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="850">Dashboards</text>
+  </g>
+</svg>

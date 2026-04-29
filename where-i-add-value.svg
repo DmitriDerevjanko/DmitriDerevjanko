@@ -1,0 +1,35 @@
+<svg width="1080" height="560" viewBox="0 0 1080 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1080" y2="560" gradientUnits="userSpaceOnUse"><stop stop-color="#050816"/><stop offset="0.52" stop-color="#101636"/><stop offset="1" stop-color="#042F3A"/></linearGradient>
+    <linearGradient id="accent" x1="70" y1="490" x2="1010" y2="80" gradientUnits="userSpaceOnUse"><stop stop-color="#6C63FF"/><stop offset="1" stop-color="#00E5C3"/></linearGradient>
+    <linearGradient id="card" x1="70" y1="130" x2="1010" y2="480" gradientUnits="userSpaceOnUse"><stop stop-color="#111827" stop-opacity="0.92"/><stop offset="1" stop-color="#0B1220" stop-opacity="0.78"/></linearGradient>
+    <filter id="shadow" x="-12%" y="-22%" width="124%" height="144%"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000000" flood-opacity="0.32"/></filter>
+  </defs>
+  <rect width="1080" height="560" rx="30" fill="url(#bg)"/>
+  <g opacity="0.1"><path d="M0 112H1080M0 224H1080M0 336H1080M0 448H1080" stroke="#E5E7EB"/><path d="M135 0V560M270 0V560M405 0V560M540 0V560M675 0V560M810 0V560M945 0V560" stroke="#E5E7EB"/></g>
+  <text x="70" y="72" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="850" letter-spacing="-0.8">Where I Add Value</text>
+  <text x="70" y="104" fill="#A7F3D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Strategy, implementation, integration, deployment, and product presentation in one workflow</text>
+  <path d="M70 126H1010" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-opacity="0.78"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" filter="url(#shadow)">
+    <rect x="70" y="160" width="455" height="82" rx="20" fill="url(#card)" stroke="#6C63FF" stroke-opacity="0.45"/>
+    <text x="96" y="194" fill="#C7D2FE" font-size="17" font-weight="850">Strategy to Implementation</text>
+    <text x="96" y="218" fill="#CBD5E1" font-size="13" font-weight="650">Translate business problems into data, retrieval, APIs, UI, and deployment.</text>
+    <rect x="555" y="160" width="455" height="82" rx="20" fill="url(#card)" stroke="#00C7B7" stroke-opacity="0.45"/>
+    <text x="581" y="194" fill="#CCFBF1" font-size="17" font-weight="850">RAG &amp; Knowledge Systems</text>
+    <text x="581" y="218" fill="#CBD5E1" font-size="13" font-weight="650">Grounding, citations, retrieval quality, evaluation, and hallucination control.</text>
+    <rect x="70" y="262" width="455" height="82" rx="20" fill="url(#card)" stroke="#00C7B7" stroke-opacity="0.45"/>
+    <text x="96" y="296" fill="#CCFBF1" font-size="17" font-weight="850">Document Automation</text>
+    <text x="96" y="320" fill="#CBD5E1" font-size="13" font-weight="650">Extract, classify, enrich, and route information from messy real documents.</text>
+    <rect x="555" y="262" width="455" height="82" rx="20" fill="url(#card)" stroke="#6C63FF" stroke-opacity="0.45"/>
+    <text x="581" y="296" fill="#C7D2FE" font-size="17" font-weight="850">Agents &amp; Workflow Automation</text>
+    <text x="581" y="320" fill="#CBD5E1" font-size="13" font-weight="650">Clear tasks, tool use, guardrails, measurable savings, and practical flows.</text>
+    <rect x="70" y="364" width="455" height="82" rx="20" fill="url(#card)" stroke="#6C63FF" stroke-opacity="0.45"/>
+    <text x="96" y="398" fill="#C7D2FE" font-size="17" font-weight="850">Backend &amp; Integration Work</text>
+    <text x="96" y="422" fill="#CBD5E1" font-size="13" font-weight="650">FastAPI services, clean data contracts, scraping, CRM, and dashboards.</text>
+    <rect x="555" y="364" width="455" height="82" rx="20" fill="url(#card)" stroke="#00C7B7" stroke-opacity="0.45"/>
+    <text x="581" y="398" fill="#CCFBF1" font-size="17" font-weight="850">Deployment &amp; Product Presentation</text>
+    <text x="581" y="422" fill="#CBD5E1" font-size="13" font-weight="650">Docker, CI/CD, nginx, logs, monitoring, demos, and stakeholder-ready UX.</text>
+  </g>
+  <path d="M70 490H1010" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-opacity="0.7"/>
+  <text x="540" y="520" text-anchor="middle" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">I care about useful systems: clear problem, reliable data, clean product, and production ownership.</text>
+</svg>
