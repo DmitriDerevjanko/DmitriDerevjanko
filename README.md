@@ -69,7 +69,12 @@ My focus is end-to-end delivery: data ingestion, embeddings, LLM workflows, APIs
       <a href="https://ai-risk.dmitriderevjanko.com"><img src="./demo-risk-forecast.svg?v=20260429" alt="Global Risk Forecast demo" width="100%" /></a>
     </td>
     <td width="50%" align="center">
-      <a href="https://ai-vision.dmitriderevjanko.com"><img src="./demo-vision-smartcam.svg?v=20260429" alt="AI-Vision and SmartCam demo" width="100%" /></a>
+      <a href="https://ai-vision.dmitriderevjanko.com"><img src="./demo-vision-smartcam.svg?v=20260429-2" alt="AI-Vision steel surface defect segmentation demo" width="100%" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://ai-news.dmitriderevjanko.com"><img src="./demo-smartcam.svg?v=20260429" alt="AI SmartCam live object detection demo" width="50%" /></a>
     </td>
   </tr>
 </table>
