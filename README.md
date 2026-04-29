@@ -16,7 +16,7 @@
 <img src="./profile-meta-strip.svg?v=20260429-2" alt="End-to-End Systems · Automation / APIs / AI · Based in Estonia" width="720" />
 <br />
 <br />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=DmitriDerevjanko.DmitriDerevjanko&left_text=Profile%20Views&left_color=%230B1220&right_color=%2300C7B7" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=DmitriDerevjanko&style=for-the-badge&color=00c7b7&labelColor=0b1220&label=Profile+Views" alt="Profile views" />
 
 </div>
 
