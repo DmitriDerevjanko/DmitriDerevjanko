@@ -22,8 +22,7 @@ My focus is end-to-end delivery: data ingestion, embeddings, LLM workflows, APIs
 <img src="./profile-meta-strip.svg?v=20260429-2" alt="End-to-End Systems · Automation / APIs / AI · Based in Estonia" width="720" />
 <br />
 <br />
-<img src="./profile-views-label.svg" alt="Live profile visitor counter" height="44" />
-<img src="https://komarev.com/ghpvc/?username=DmitriDerevjanko&style=flat&color=00c7b7&label=Visitors" alt="Profile views" height="28" />
+<img src="https://komarev.com/ghpvc/?username=DmitriDerevjanko&style=for-the-badge&color=00c7b7&label=Profile+Views" alt="Profile views" />
 
 </div>
 
