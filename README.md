@@ -2,13 +2,7 @@
 
 <img src="./github-profile-banner.svg?v=20260429-4" alt="Dmitri Derevjanko - Systems Integration and AI Automation" width="100%" />
 
-# Hi, I'm Dmitri Derevjanko
-
-### Systems Integration Specialist | AI Automation Builder | Full-Stack Developer
-
-I build practical systems that move from idea to production: automation tools, dashboards, scraping pipelines, backend services, RAG assistants, OCR workflows, and AI-powered features that real teams can use.
-
-My focus is end-to-end delivery: data ingestion, embeddings, LLM workflows, APIs, product UI, deployment, monitoring, and the business logic around it.
+<img src="./profile-intro.svg?v=20260429" alt="Dmitri Derevjanko - Systems Integration Specialist and AI Automation Builder" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1200&color=6C63FF&center=true&vCenter=true&width=900&lines=Systems+Integration+Specialist;Automation+%7C+Dashboards+%7C+RAG+%7C+OCR;FastAPI+%7C+React+%7C+Docker+%7C+CI%2FCD;I+build+systems+people+can+actually+use)](https://git.io/typing-svg)
 
@@ -22,7 +16,7 @@ My focus is end-to-end delivery: data ingestion, embeddings, LLM workflows, APIs
 <img src="./profile-meta-strip.svg?v=20260429-2" alt="End-to-End Systems · Automation / APIs / AI · Based in Estonia" width="720" />
 <br />
 <br />
-<img src="https://komarev.com/ghpvc/?username=DmitriDerevjanko&style=for-the-badge&color=00c7b7&label=Profile+Views" alt="Profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=DmitriDerevjanko.DmitriDerevjanko&left_text=Profile%20Views&left_color=%230B1220&right_color=%2300C7B7" alt="Profile views" />
 
 </div>
 
@@ -78,7 +72,7 @@ My focus is end-to-end delivery: data ingestion, embeddings, LLM workflows, APIs
 
 ## How I Build
 
-<img src="./how-i-build.svg?v=20260429" alt="How I Build: frame, prepare, intelligence, backend, product, and ship" width="100%" />
+<img src="./how-i-build.svg?v=20260429-3" alt="How I Build: frame, prepare, intelligence, backend, product, and ship" width="100%" />
 
 ---
 

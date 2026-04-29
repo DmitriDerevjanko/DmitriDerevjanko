@@ -1,0 +1,23 @@
+<svg width="960" height="210" viewBox="0 0 960 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="border" x1="0" y1="210" x2="960" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6C63FF"/>
+      <stop offset="1" stop-color="#00E5C3"/>
+    </linearGradient>
+    <linearGradient id="fill" x1="0" y1="0" x2="960" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(760 80) rotate(-18) scale(260 150)">
+      <stop stop-color="#00C7B7" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#00C7B7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="958" height="208" rx="28" fill="url(#fill)" stroke="url(#border)" stroke-opacity="0.72" stroke-width="2"/>
+  <rect x="1" y="1" width="958" height="208" rx="28" fill="url(#glow)"/>
+  <text x="480" y="58" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="850" letter-spacing="-0.6">Hi, I'm Dmitri Derevjanko</text>
+  <text x="480" y="92" text-anchor="middle" fill="#C7D2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Systems Integration Specialist | AI Automation Builder | Full-Stack Developer</text>
+  <text x="480" y="130" text-anchor="middle" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">I build practical systems from idea to production: automation tools, dashboards, scraping pipelines,</text>
+  <text x="480" y="154" text-anchor="middle" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">backend services, RAG assistants, OCR workflows, and AI-powered features for real teams.</text>
+  <path d="M240 178H720" stroke="url(#border)" stroke-width="2" stroke-linecap="round" stroke-opacity="0.68"/>
+</svg>

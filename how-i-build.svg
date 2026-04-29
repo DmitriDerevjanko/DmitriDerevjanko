@@ -8,33 +8,39 @@
   <rect width="1080" height="520" rx="30" fill="url(#bg)"/>
   <g opacity="0.1"><path d="M0 104H1080M0 208H1080M0 312H1080M0 416H1080" stroke="#E5E7EB"/><path d="M135 0V520M270 0V520M405 0V520M540 0V520M675 0V520M810 0V520M945 0V520" stroke="#E5E7EB"/></g>
   <text x="70" y="72" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="850" letter-spacing="-0.8">How I Build</text>
-  <text x="70" y="104" fill="#A7F3D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">From business problem to reliable product workflow, API, UI, deployment, and iteration</text>
+  <text x="70" y="104" fill="#A7F3D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">From business problem to reliable workflow, API, UI, deployment, and iteration</text>
   <path d="M70 126H1010" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-opacity="0.78"/>
   <g font-family="Inter, Segoe UI, Arial, sans-serif" filter="url(#shadow)">
     <rect x="70" y="160" width="296" height="124" rx="22" fill="url(#card)" stroke="#6C63FF" stroke-opacity="0.45"/>
-    <text x="96" y="202" fill="#C7D2FE" font-size="18" font-weight="850">01 · Frame</text>
-    <text x="96" y="232" fill="#F8FAFC" font-size="14" font-weight="800">Business problem ’ workflow</text>
-    <text x="96" y="256" fill="#CBD5E1" font-size="13" font-weight="650">Goal, users, constraints, metrics, and value.</text>
+    <text x="96" y="202" fill="#C7D2FE" font-size="18" font-weight="850">01 - Frame</text>
+    <text x="96" y="232" fill="#F8FAFC" font-size="13" font-weight="800">Business problem - workflow</text>
+    <text x="96" y="254" fill="#CBD5E1" font-size="12" font-weight="650">Goal, users, constraints, metrics,</text>
+    <text x="96" y="272" fill="#CBD5E1" font-size="12" font-weight="650">and business value.</text>
     <rect x="392" y="160" width="296" height="124" rx="22" fill="url(#card)" stroke="#00C7B7" stroke-opacity="0.45"/>
-    <text x="418" y="202" fill="#CCFBF1" font-size="18" font-weight="850">02 · Prepare</text>
-    <text x="418" y="232" fill="#F8FAFC" font-size="14" font-weight="800">Data sources ’ clean context</text>
-    <text x="418" y="256" fill="#CBD5E1" font-size="13" font-weight="650">APIs, files, scraping, OCR, databases, ETL.</text>
+    <text x="418" y="202" fill="#CCFBF1" font-size="18" font-weight="850">02 - Prepare</text>
+    <text x="418" y="232" fill="#F8FAFC" font-size="13" font-weight="800">Data sources - clean context</text>
+    <text x="418" y="254" fill="#CBD5E1" font-size="12" font-weight="650">APIs, files, scraping, OCR,</text>
+    <text x="418" y="272" fill="#CBD5E1" font-size="12" font-weight="650">databases, and ETL.</text>
     <rect x="714" y="160" width="296" height="124" rx="22" fill="url(#card)" stroke="#6C63FF" stroke-opacity="0.45"/>
-    <text x="740" y="202" fill="#C7D2FE" font-size="18" font-weight="850">03 · Intelligence</text>
-    <text x="740" y="232" fill="#F8FAFC" font-size="14" font-weight="800">RAG, ML, agents, guardrails</text>
-    <text x="740" y="256" fill="#CBD5E1" font-size="13" font-weight="650">Grounded workflows, evaluation, clear failures.</text>
+    <text x="740" y="202" fill="#C7D2FE" font-size="18" font-weight="850">03 - Intelligence</text>
+    <text x="740" y="232" fill="#F8FAFC" font-size="13" font-weight="800">RAG, ML, agents, guardrails</text>
+    <text x="740" y="254" fill="#CBD5E1" font-size="12" font-weight="650">Grounded workflows, evaluation,</text>
+    <text x="740" y="272" fill="#CBD5E1" font-size="12" font-weight="650">and clear failure paths.</text>
     <rect x="70" y="318" width="296" height="124" rx="22" fill="url(#card)" stroke="#00C7B7" stroke-opacity="0.45"/>
-    <text x="96" y="360" fill="#CCFBF1" font-size="18" font-weight="850">04 · Backend</text>
-    <text x="96" y="390" fill="#F8FAFC" font-size="14" font-weight="800">FastAPI ’ typed contracts</text>
-    <text x="96" y="414" fill="#CBD5E1" font-size="13" font-weight="650">Clean APIs, jobs, auth-aware integrations.</text>
+    <text x="96" y="360" fill="#CCFBF1" font-size="18" font-weight="850">04 - Backend</text>
+    <text x="96" y="390" fill="#F8FAFC" font-size="13" font-weight="800">FastAPI - typed contracts</text>
+    <text x="96" y="412" fill="#CBD5E1" font-size="12" font-weight="650">Clean APIs, background jobs,</text>
+    <text x="96" y="430" fill="#CBD5E1" font-size="12" font-weight="650">and auth-aware integrations.</text>
     <rect x="392" y="318" width="296" height="124" rx="22" fill="url(#card)" stroke="#6C63FF" stroke-opacity="0.45"/>
-    <text x="418" y="360" fill="#C7D2FE" font-size="18" font-weight="850">05 · Product</text>
-    <text x="418" y="390" fill="#F8FAFC" font-size="14" font-weight="800">Dashboards ’ usable UI</text>
-    <text x="418" y="414" fill="#CBD5E1" font-size="13" font-weight="650">Interfaces non-technical users understand.</text>
+    <text x="418" y="360" fill="#C7D2FE" font-size="18" font-weight="850">05 - Product</text>
+    <text x="418" y="390" fill="#F8FAFC" font-size="13" font-weight="800">Dashboards - usable UI</text>
+    <text x="418" y="412" fill="#CBD5E1" font-size="12" font-weight="650">Interfaces non-technical users</text>
+    <text x="418" y="430" fill="#CBD5E1" font-size="12" font-weight="650">can understand quickly.</text>
     <rect x="714" y="318" width="296" height="124" rx="22" fill="url(#card)" stroke="#00C7B7" stroke-opacity="0.45"/>
-    <text x="740" y="360" fill="#CCFBF1" font-size="18" font-weight="850">06 · Ship</text>
-    <text x="740" y="390" fill="#F8FAFC" font-size="14" font-weight="800">Docker, VPS, CI/CD, monitoring</text>
-    <text x="740" y="414" fill="#CBD5E1" font-size="13" font-weight="650">Logs, rollback paths, iteration after launch.</text>
+    <text x="740" y="360" fill="#CCFBF1" font-size="18" font-weight="850">06 - Ship</text>
+    <text x="740" y="390" fill="#F8FAFC" font-size="13" font-weight="800">Docker, VPS, CI/CD, monitoring</text>
+    <text x="740" y="412" fill="#CBD5E1" font-size="12" font-weight="650">Logs, rollback paths, and</text>
+    <text x="740" y="430" fill="#CBD5E1" font-size="12" font-weight="650">iteration after launch.</text>
   </g>
   <path d="M366 222H392M688 222H714M218 284V318M540 284V318M862 284V318" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-opacity="0.65"/>
 </svg>
