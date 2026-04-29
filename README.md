@@ -78,7 +78,7 @@
 
 ## Where I Add Value
 
-<img src="./where-i-add-value.svg?v=20260429" alt="Where I Add Value: strategy, RAG, automation, backend, deployment, and product presentation" width="100%" />
+<img src="./where-i-add-value.svg?v=20260429-2" alt="Where I Add Value: strategy, RAG, automation, backend, deployment, and product presentation" width="100%" />
 
 ---
 

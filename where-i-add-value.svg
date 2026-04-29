@@ -13,22 +13,28 @@
   <g font-family="Inter, Segoe UI, Arial, sans-serif" filter="url(#shadow)">
     <rect x="70" y="160" width="455" height="82" rx="20" fill="url(#card)" stroke="#6C63FF" stroke-opacity="0.45"/>
     <text x="96" y="194" fill="#C7D2FE" font-size="17" font-weight="850">Strategy to Implementation</text>
-    <text x="96" y="218" fill="#CBD5E1" font-size="13" font-weight="650">Translate business problems into data, retrieval, APIs, UI, and deployment.</text>
+    <text x="96" y="216" fill="#CBD5E1" font-size="12" font-weight="650">Translate business problems into data, retrieval,</text>
+    <text x="96" y="232" fill="#CBD5E1" font-size="12" font-weight="650">APIs, UI, and deployment.</text>
     <rect x="555" y="160" width="455" height="82" rx="20" fill="url(#card)" stroke="#00C7B7" stroke-opacity="0.45"/>
     <text x="581" y="194" fill="#CCFBF1" font-size="17" font-weight="850">RAG &amp; Knowledge Systems</text>
-    <text x="581" y="218" fill="#CBD5E1" font-size="13" font-weight="650">Grounding, citations, retrieval quality, evaluation, and hallucination control.</text>
+    <text x="581" y="216" fill="#CBD5E1" font-size="12" font-weight="650">Grounding, citations, retrieval quality,</text>
+    <text x="581" y="232" fill="#CBD5E1" font-size="12" font-weight="650">evaluation, and hallucination control.</text>
     <rect x="70" y="262" width="455" height="82" rx="20" fill="url(#card)" stroke="#00C7B7" stroke-opacity="0.45"/>
     <text x="96" y="296" fill="#CCFBF1" font-size="17" font-weight="850">Document Automation</text>
-    <text x="96" y="320" fill="#CBD5E1" font-size="13" font-weight="650">Extract, classify, enrich, and route information from messy real documents.</text>
+    <text x="96" y="318" fill="#CBD5E1" font-size="12" font-weight="650">Extract, classify, enrich, and route information</text>
+    <text x="96" y="334" fill="#CBD5E1" font-size="12" font-weight="650">from messy real documents.</text>
     <rect x="555" y="262" width="455" height="82" rx="20" fill="url(#card)" stroke="#6C63FF" stroke-opacity="0.45"/>
     <text x="581" y="296" fill="#C7D2FE" font-size="17" font-weight="850">Agents &amp; Workflow Automation</text>
-    <text x="581" y="320" fill="#CBD5E1" font-size="13" font-weight="650">Clear tasks, tool use, guardrails, measurable savings, and practical flows.</text>
+    <text x="581" y="318" fill="#CBD5E1" font-size="12" font-weight="650">Clear tasks, tool use, guardrails,</text>
+    <text x="581" y="334" fill="#CBD5E1" font-size="12" font-weight="650">measurable savings, and practical flows.</text>
     <rect x="70" y="364" width="455" height="82" rx="20" fill="url(#card)" stroke="#6C63FF" stroke-opacity="0.45"/>
     <text x="96" y="398" fill="#C7D2FE" font-size="17" font-weight="850">Backend &amp; Integration Work</text>
-    <text x="96" y="422" fill="#CBD5E1" font-size="13" font-weight="650">FastAPI services, clean data contracts, scraping, CRM, and dashboards.</text>
+    <text x="96" y="420" fill="#CBD5E1" font-size="12" font-weight="650">FastAPI services, clean data contracts,</text>
+    <text x="96" y="436" fill="#CBD5E1" font-size="12" font-weight="650">scraping, CRM, and dashboards.</text>
     <rect x="555" y="364" width="455" height="82" rx="20" fill="url(#card)" stroke="#00C7B7" stroke-opacity="0.45"/>
     <text x="581" y="398" fill="#CCFBF1" font-size="17" font-weight="850">Deployment &amp; Product Presentation</text>
-    <text x="581" y="422" fill="#CBD5E1" font-size="13" font-weight="650">Docker, CI/CD, nginx, logs, monitoring, demos, and stakeholder-ready UX.</text>
+    <text x="581" y="420" fill="#CBD5E1" font-size="12" font-weight="650">Docker, CI/CD, nginx, logs, monitoring,</text>
+    <text x="581" y="436" fill="#CBD5E1" font-size="12" font-weight="650">demos, and stakeholder-ready UX.</text>
   </g>
   <path d="M70 490H1010" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-opacity="0.7"/>
   <text x="540" y="520" text-anchor="middle" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">I care about useful systems: clear problem, reliable data, clean product, and production ownership.</text>
