@@ -12,10 +12,10 @@
   </defs>
   <rect x="1" y="1" width="718" height="46" rx="18" fill="url(#fill)" stroke="url(#border)" stroke-opacity="0.7" stroke-width="2"/>
   <circle cx="36" cy="24" r="5" fill="#00E5C3"/>
-  <text x="54" y="29" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="850" letter-spacing="0.8">End-to-End AI Systems</text>
+  <text x="54" y="29" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="850" letter-spacing="0.8">End-to-End Systems</text>
   <path d="M248 14v20" stroke="#334155"/>
   <circle cx="284" cy="24" r="5" fill="#6C63FF"/>
-  <text x="302" y="29" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="850" letter-spacing="0.8">RAG / OCR / Agents</text>
+  <text x="302" y="29" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="850" letter-spacing="0.8">Automation / APIs / AI</text>
   <path d="M486 14v20" stroke="#334155"/>
   <circle cx="522" cy="24" r="5" fill="#00E5C3"/>
   <text x="540" y="29" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="850" letter-spacing="0.8">Based in Estonia</text>
