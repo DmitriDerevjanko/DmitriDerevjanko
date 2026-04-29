@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./github-profile-banner.svg?v=20260429-2" alt="Dmitri Derevjanko - Systems Integration Specialist" width="100%" />
+<img src="./github-profile-banner.svg?v=20260429-4" alt="Dmitri Derevjanko - Systems Integration and AI Automation" width="100%" />
 
 # Hi, I'm Dmitri Derevjanko
 
-### Systems Integration Specialist | Automation Builder | Full-Stack Developer
+### Systems Integration Specialist | AI Automation Builder | Full-Stack Developer
 
 I build practical systems that move from idea to production: automation tools, dashboards, scraping pipelines, backend services, RAG assistants, OCR workflows, and AI-powered features that real teams can use.
 
@@ -22,7 +22,8 @@ My focus is end-to-end delivery: data ingestion, embeddings, LLM workflows, APIs
 <img src="./profile-meta-strip.svg?v=20260429-2" alt="End-to-End Systems · Automation / APIs / AI · Based in Estonia" width="720" />
 <br />
 <br />
-<img src="https://komarev.com/ghpvc/?username=DmitriDerevjanko&style=for-the-badge&color=6c63ff&label=Profile+Views" alt="Profile views" />
+<img src="./profile-views-label.svg" alt="Live profile visitor counter" height="44" />
+<img src="https://komarev.com/ghpvc/?username=DmitriDerevjanko&style=flat&color=00c7b7&label=Visitors" alt="Profile views" height="28" />
 
 </div>
 
@@ -45,73 +46,31 @@ My focus is end-to-end delivery: data ingestion, embeddings, LLM workflows, APIs
 
 ---
 
-## Live AI Demos
+## Live Systems & AI Demos
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>Law Agent</h3>
-      <p>Multilingual legal assistant grounded in Estonian law with RAG, direct source citations, and a polished advisory interface.</p>
-      <p>
-        <img src="https://img.shields.io/badge/RAG-6C63FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Legal%20AI-111827?style=flat-square" />
-      </p>
-      <a href="https://counsel.dmitriderevjanko.com/">Open demo</a>
+    <td width="50%" align="center">
+      <a href="https://counsel.dmitriderevjanko.com/"><img src="./demo-law-agent.svg?v=20260429" alt="Law Agent demo" width="100%" /></a>
     </td>
-    <td width="50%">
-      <h3>Company Intelligence Hub</h3>
-      <p>Company profiles, financial facts, risk signals, AI summaries, and professional reports from official and web sources.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Scraping-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-        <img src="https://img.shields.io/badge/Reports-00C7B7?style=flat-square" />
-        <img src="https://img.shields.io/badge/AI%20Summaries-6C63FF?style=flat-square" />
-      </p>
-      <a href="https://intel.dmitriderevjanko.com/">Open demo</a>
+    <td width="50%" align="center">
+      <a href="https://intel.dmitriderevjanko.com/"><img src="./demo-company-hub.svg?v=20260429" alt="Company Intelligence Hub demo" width="100%" /></a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>OSINT Radar</h3>
-      <p>Real-time intelligence dashboard aggregating 27+ open sources with AI summaries, monitoring, and alerting.</p>
-      <p>
-        <img src="https://img.shields.io/badge/OSINT-111827?style=flat-square" />
-        <img src="https://img.shields.io/badge/Monitoring-00C7B7?style=flat-square" />
-        <img src="https://img.shields.io/badge/Automation-6C63FF?style=flat-square" />
-      </p>
-      <a href="https://osint.dmitriderevjanko.com/">Open demo</a>
+    <td width="50%" align="center">
+      <a href="https://osint.dmitriderevjanko.com/"><img src="./demo-osint-radar.svg?v=20260429" alt="OSINT Radar demo" width="100%" /></a>
     </td>
-    <td width="50%">
-      <h3>FinanceLens AI</h3>
-      <p>Financial analysis workspace combining SEC filings, Yahoo data, OpenFIGI mapping, and AI-assisted workflows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Finance-0B1220?style=flat-square" />
-        <img src="https://img.shields.io/badge/SEC%20Data-005571?style=flat-square" />
-        <img src="https://img.shields.io/badge/Dashboards-6C63FF?style=flat-square" />
-      </p>
-      <a href="https://finance.dmitriderevjanko.com/">Open demo</a>
+    <td width="50%" align="center">
+      <a href="https://finance.dmitriderevjanko.com/"><img src="./demo-finance-lens.svg?v=20260429" alt="FinanceLens AI demo" width="100%" /></a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>AI Global Risk Forecast</h3>
-      <p>Machine learning dashboard forecasting global terrorism trends with LightGBM, FastAPI, and interactive maps.</p>
-      <p>
-        <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Maps-00C7B7?style=flat-square" />
-      </p>
-      <a href="https://ai-risk.dmitriderevjanko.com">Demo</a> · <a href="https://github.com/DmitriDerevjanko/ai-risk-clean">Code</a>
+    <td width="50%" align="center">
+      <a href="https://ai-risk.dmitriderevjanko.com"><img src="./demo-risk-forecast.svg?v=20260429" alt="Global Risk Forecast demo" width="100%" /></a>
     </td>
-    <td width="50%">
-      <h3>AI-Vision + SmartCam</h3>
-      <p>Computer vision projects for steel defect segmentation and live object detection with PyTorch, YOLOv8, OpenCV, and FastAPI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/YOLOv8-111827?style=flat-square" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      </p>
-      <a href="https://ai-vision.dmitriderevjanko.com">AI-Vision</a> · <a href="https://ai-news.dmitriderevjanko.com">SmartCam</a>
+    <td width="50%" align="center">
+      <a href="https://ai-vision.dmitriderevjanko.com"><img src="./demo-vision-smartcam.svg?v=20260429" alt="AI-Vision and SmartCam demo" width="100%" /></a>
     </td>
   </tr>
 </table>
@@ -189,12 +148,15 @@ My focus is end-to-end delivery: data ingestion, embeddings, LLM workflows, APIs
 
 ## Let's Build Something Useful
 
-If you need an AI system that connects to real data, real users, and real business value, feel free to reach out.
-
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-dmitri.derevjanko02%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitri.derevjanko02@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitri-derevjanko/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20my%20work-6c63ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dmitriderevjanko.com/)
+<img src="./contact-cta.svg?v=20260429" alt="Let's build something useful" width="100%" />
+
+<br />
+
+<a href="mailto:dmitri.derevjanko02@gmail.com"><img src="./profile-link-email.svg" alt="Email" height="48" /></a>
+<a href="https://www.linkedin.com/in/dmitri-derevjanko/"><img src="./profile-link-linkedin.svg" alt="LinkedIn" height="48" /></a>
+<br />
+<a href="https://dmitriderevjanko.com/"><img src="./profile-link-portfolio.svg" alt="Portfolio" height="48" /></a>
 
 </div>

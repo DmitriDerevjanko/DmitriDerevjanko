@@ -1,0 +1,26 @@
+<svg width="960" height="190" viewBox="0 0 960 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="960" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#042F3A"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0" y1="190" x2="960" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6C63FF"/>
+      <stop offset="1" stop-color="#00E5C3"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(760 80) rotate(-18) scale(260 150)">
+      <stop stop-color="#00C7B7" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#00C7B7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="958" height="188" rx="28" fill="url(#bg)" stroke="url(#border)" stroke-opacity="0.72" stroke-width="2"/>
+  <rect x="1" y="1" width="958" height="188" rx="28" fill="url(#glow)"/>
+  <text x="56" y="68" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="850" letter-spacing="-0.6">Let's build something useful</text>
+  <text x="56" y="106" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="650">Systems, automation, dashboards, APIs, and AI features connected to real users and real data.</text>
+  <rect x="56" y="130" width="172" height="34" rx="17" fill="#6C63FF" fill-opacity="0.18" stroke="#6C63FF" stroke-opacity="0.55"/>
+  <text x="142" y="152" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="850">Production-minded</text>
+  <rect x="242" y="130" width="146" height="34" rx="17" fill="#00C7B7" fill-opacity="0.14" stroke="#00C7B7" stroke-opacity="0.5"/>
+  <text x="315" y="152" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="850">Business-first</text>
+  <rect x="402" y="130" width="138" height="34" rx="17" fill="#0F172A" stroke="#334155"/>
+  <text x="471" y="152" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="850">End-to-end</text>
+</svg>
