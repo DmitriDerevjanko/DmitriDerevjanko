@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./github-profile-banner.svg" alt="Dmitri Derevjanko - AI Integration Specialist" width="100%" />
+
 # Hi, I'm Dmitri Derevjanko
 
 ### AI Integration Specialist | Automation Builder | Full-Stack AI Developer
@@ -94,15 +96,99 @@ My focus is end-to-end delivery: data ingestion, embeddings, LLM workflows, APIs
 
 ## Live AI Demos
 
-| Project | Stack | What it does | Demo |
-| --- | --- | --- | --- |
-| Law Agent | RAG, FastAPI, legal data | Multilingual legal assistant grounded in Estonian law with direct source citations | [Open](https://counsel.dmitriderevjanko.com/) |
-| Estonian Company Intelligence Hub | AI summaries, scraping, reports | Company profiles, financial facts, risks, and professional intelligence reports | [Open](https://intel.dmitriderevjanko.com/) |
-| OSINT Radar | Open-source intelligence, alerts | Real-time dashboard aggregating 27+ open sources with AI summaries | [Open](https://osint.dmitriderevjanko.com/) |
-| FinanceLens AI | SEC, Yahoo, OpenFIGI | Financial analysis workspace for valuation and market workflows | [Open](https://finance.dmitriderevjanko.com/) |
-| AI Global Risk Forecast | LightGBM, FastAPI, maps | ML dashboard forecasting global terrorism trends | [Demo](https://ai-risk.dmitriderevjanko.com) / [Code](https://github.com/DmitriDerevjanko/ai-risk-clean) |
-| AI-Vision | PyTorch, UNet++, FastAPI | Steel surface defect segmentation with real-time inference | [Demo](https://ai-vision.dmitriderevjanko.com) / [Code](https://github.com/DmitriDerevjanko/ai-vision) |
-| AI SmartCam | YOLOv8, OpenCV, FastAPI | Live object detection on HD video streams | [Demo](https://ai-news.dmitriderevjanko.com) / [Code](https://github.com/DmitriDerevjanko/ai-news) |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Law Agent</h3>
+      <p>Multilingual legal assistant grounded in Estonian law with RAG, direct source citations, and a polished advisory interface.</p>
+      <p>
+        <img src="https://img.shields.io/badge/RAG-6C63FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Legal%20AI-111827?style=flat-square" />
+      </p>
+      <a href="https://counsel.dmitriderevjanko.com/">Open demo</a>
+    </td>
+    <td width="50%">
+      <h3>Company Intelligence Hub</h3>
+      <p>Company profiles, financial facts, risk signals, AI summaries, and professional reports from official and web sources.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Scraping-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+        <img src="https://img.shields.io/badge/Reports-00C7B7?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI%20Summaries-6C63FF?style=flat-square" />
+      </p>
+      <a href="https://intel.dmitriderevjanko.com/">Open demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>OSINT Radar</h3>
+      <p>Real-time intelligence dashboard aggregating 27+ open sources with AI summaries, monitoring, and alerting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/OSINT-111827?style=flat-square" />
+        <img src="https://img.shields.io/badge/Monitoring-00C7B7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Automation-6C63FF?style=flat-square" />
+      </p>
+      <a href="https://osint.dmitriderevjanko.com/">Open demo</a>
+    </td>
+    <td width="50%">
+      <h3>FinanceLens AI</h3>
+      <p>Financial analysis workspace combining SEC filings, Yahoo data, OpenFIGI mapping, and AI-assisted workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Finance-0B1220?style=flat-square" />
+        <img src="https://img.shields.io/badge/SEC%20Data-005571?style=flat-square" />
+        <img src="https://img.shields.io/badge/Dashboards-6C63FF?style=flat-square" />
+      </p>
+      <a href="https://finance.dmitriderevjanko.com/">Open demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>AI Global Risk Forecast</h3>
+      <p>Machine learning dashboard forecasting global terrorism trends with LightGBM, FastAPI, and interactive maps.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Maps-00C7B7?style=flat-square" />
+      </p>
+      <a href="https://ai-risk.dmitriderevjanko.com">Demo</a> · <a href="https://github.com/DmitriDerevjanko/ai-risk-clean">Code</a>
+    </td>
+    <td width="50%">
+      <h3>AI-Vision + SmartCam</h3>
+      <p>Computer vision projects for steel defect segmentation and live object detection with PyTorch, YOLOv8, OpenCV, and FastAPI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/YOLOv8-111827?style=flat-square" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      </p>
+      <a href="https://ai-vision.dmitriderevjanko.com">AI-Vision</a> · <a href="https://ai-news.dmitriderevjanko.com">SmartCam</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## How I Build
+
+```mermaid
+flowchart LR
+    A[Business Problem] --> B[Data Sources]
+    B --> C[Ingestion + Cleaning]
+    C --> D[Embeddings / OCR / ML]
+    D --> E[RAG or Agent Workflow]
+    E --> F[FastAPI Service]
+    F --> G[React / Dashboard UI]
+    G --> H[Docker + VPS + CI/CD]
+    H --> I[Monitoring + Iteration]
+```
+
+| Step | What I care about |
+| --- | --- |
+| Problem framing | Clear business goal, real user workflow, measurable output |
+| Data layer | Reliable ingestion, cleaning, scraping, OCR, storage, and retrieval |
+| AI workflow | Grounded answers, tool use, guardrails, evaluation, and practical latency |
+| Backend | FastAPI services, typed contracts, auth-aware integration points, clean APIs |
+| Product UI | Dashboards and interfaces that non-technical users can understand quickly |
+| Deployment | Docker, nginx, Linux, CI/CD, logs, monitoring, and simple rollback paths |
 
 ---
 
