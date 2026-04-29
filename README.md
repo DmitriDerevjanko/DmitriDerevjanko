@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./github-profile-banner.svg?v=20260429-4" alt="Dmitri Derevjanko - Systems Integration and AI Automation" width="100%" />
+<img src="./github-profile-banner.svg?v=20260429-5" alt="Dmitri Derevjanko - Systems Integration and AI Automation" width="100%" />
 
 <img src="./profile-intro.svg?v=20260429" alt="Dmitri Derevjanko - Systems Integration Specialist and AI Automation Builder" width="100%" />
 
