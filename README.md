@@ -25,28 +25,12 @@ My focus is end-to-end delivery: data ingestion, embeddings, LLM workflows, APIs
 
 ## What I Build
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>AI Products</h3>
-      <ul>
-        <li>RAG assistants with source-grounded answers</li>
-        <li>AI agents for routing, research, and reporting</li>
-        <li>OCR/NLP pipelines for document automation</li>
-        <li>LLM-powered dashboards and decision tools</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>Production Systems</h3>
-      <ul>
-        <li>FastAPI backends and clean API contracts</li>
-        <li>React/Next.js interfaces for real users</li>
-        <li>Scraping, ETL, embeddings, and vector search</li>
-        <li>Docker, nginx, VPS deployment, and CI/CD</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| AI Products | Production Systems | Business Automation |
+| --- | --- | --- |
+| Source-grounded RAG assistants | FastAPI services and clean API contracts | CRM and workflow automation |
+| AI agents for routing, research, and reporting | React/Next.js interfaces for real users | Reporting dashboards and analytics |
+| OCR/NLP pipelines for document processing | Scraping, ETL, embeddings, and vector search | Internal tools that reduce manual work |
+| LLM-powered decision tools and demos | Docker, nginx, VPS deployment, and CI/CD | Practical ROI-focused AI implementation |
 
 ---
 
@@ -55,8 +39,12 @@ My focus is end-to-end delivery: data ingestion, embeddings, LLM workflows, APIs
 ### AI, ML & Data
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Chroma](https://img.shields.io/badge/Chroma-5B4FFF?style=for-the-badge&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-6C63FF?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Source--Grounded%20AI-00C7B7?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -64,6 +52,7 @@ My focus is end-to-end delivery: data ingestion, embeddings, LLM workflows, APIs
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge&logoColor=white)
 ![OCR](https://img.shields.io/badge/OCR-Document%20AI-FF6B6B?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0B1220?style=for-the-badge)
 
 ### Backend & APIs
 
@@ -72,7 +61,9 @@ My focus is end-to-end delivery: data ingestion, embeddings, LLM workflows, APIs
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-2E8B57?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
 ### Frontend & Product UI
 
@@ -83,18 +74,21 @@ My focus is end-to-end delivery: data ingestion, embeddings, LLM workflows, APIs
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Dashboards](https://img.shields.io/badge/Dashboards-Product%20UI-6C63FF?style=for-the-badge)
 
 ### Databases, Automation & DevOps
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector%20DB-6C63FF?style=for-the-badge)
+![Notion](https://img.shields.io/badge/Notion%20CRM-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827)
 ![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS%20Deployment-111827?style=for-the-badge)
 
 ---
 
@@ -112,30 +106,17 @@ My focus is end-to-end delivery: data ingestion, embeddings, LLM workflows, APIs
 
 ---
 
-## Current Work
-
-```text
-Freelance AI Integration Specialist
-Building custom AI systems for SMBs: chatbots, OCR tools, RAG apps, automations, and reporting dashboards.
-
-Digitalization and Data Management Expert | AI & Robotics Estonia
-Designing OCR, NLP, RAG, and production data pipelines for enterprise workflows.
-
-AI Solutions Developer | Adapter
-Building AI-powered service matching, partner routing, embeddings, and CRM automation for a national innovation platform.
-```
-
----
-
 ## Where I Add Value
 
-| Strength | What it means in practice |
+| Area | How I approach it |
 | --- | --- |
-| End-to-end ownership | I can take a rough business problem and ship the ingestion, model workflow, API, UI, and deployment. |
-| Source-grounded AI | I build systems that cite real data and reduce hallucination risk. |
-| Automation mindset | I look for repeatable workflows, measurable time savings, and practical ROI. |
-| Production focus | Docker, CI/CD, nginx, monitoring, and deployment are part of the build, not an afterthought. |
-| Live demos | I prefer working systems people can click, test, and challenge. |
+| AI strategy to implementation | I translate a business problem into a working AI workflow: data sources, retrieval, model logic, API, UI, and deployment. |
+| RAG and knowledge systems | I care about grounding, citations, retrieval quality, and reducing hallucination risk instead of just wrapping a chatbot around data. |
+| Document automation | I build OCR/NLP pipelines that extract, classify, enrich, and route information from real documents and messy inputs. |
+| Agents and workflow automation | I design agents around clear tasks, tool use, guardrails, and measurable time savings rather than vague "AI magic". |
+| Backend and integration work | I build FastAPI services, clean data contracts, scraping pipelines, CRM automations, and dashboards that fit into existing operations. |
+| Deployment mindset | I treat Docker, CI/CD, nginx, Linux servers, logs, and monitoring as part of the product, not the boring part after coding. |
+| Product presentation | I build live demos that stakeholders can click, test, and understand quickly. |
 
 ---
 
