@@ -62,8 +62,11 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <a href="https://ai-news.dmitriderevjanko.com"><img src="./demo-smartcam.svg?v=20260429" alt="AI SmartCam live object detection demo" width="50%" /></a>
+    <td width="50%" align="center">
+      <a href="https://oncoview.dmitriderevjanko.com/"><img src="./demo-oncoview.svg?v=20260512" alt="OncoView AI breast cancer imaging triage demo" width="100%" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://ai-news.dmitriderevjanko.com"><img src="./demo-smartcam.svg?v=20260429" alt="AI SmartCam live object detection demo" width="100%" /></a>
     </td>
   </tr>
 </table>
@@ -86,11 +89,7 @@
 
 <div align="center">
 
-![Dmitri's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitriDerevjanko&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriDerevjanko&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub streak](https://streak-stats.demolab.com?user=DmitriDerevjanko&theme=tokyonight&hide_border=true)
+<img src="./github-dashboard.svg?v=20260512-2" alt="GitHub Dashboard: live demos, delivered solutions, and end-to-end build ownership" width="100%" />
 
 </div>
 
